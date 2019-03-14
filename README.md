@@ -6,3 +6,4 @@
 - learn how to clone the repo
 - learn how to push
 - learn how to discard changes
+- learn how to add after edit
