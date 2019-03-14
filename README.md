@@ -7,3 +7,4 @@
 - learn how to push
 - learn how to discard changes
 - learn how to add after edit
+- learn how to push multiple commits
